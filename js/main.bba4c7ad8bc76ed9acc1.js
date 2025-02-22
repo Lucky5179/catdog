@@ -558,7 +558,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://t.me/catdog_erc20" },
+                { href: "https://t.me/catdogeth_portal" },
                 react.createElement("img", { src: "../assets/images/soc2.png" })
               )
             ),
@@ -642,7 +642,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://t.me/catdog_erc20",
+                  href: "https://t.me/catdogeth_portal",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTg.png",
@@ -734,11 +734,11 @@ var deferred,
               }),
               react.createElement(
                 "a",
-                { href: "https://t.me/catdog_erc20" },
+                { href: "https://t.me/catdogeth_portal" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTg.png",
-                  href: "https://t.me/catdog_erc20",
+                  href: "https://t.me/catdogeth_portal",
                 })
               ),
               react.createElement(
