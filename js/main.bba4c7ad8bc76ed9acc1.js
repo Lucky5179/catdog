@@ -502,7 +502,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x388E03EB862C4bAF1E06c7fE04420d8a01A3C6F5",
                 },
                 react.createElement("span", { className: "footer-buy" }, "buy")
               ),
@@ -568,7 +568,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                  href: "https://dexscreener.com/ethereum/0x388E03EB862C4bAF1E06c7fE04420d8a01A3C6F5",
                 },
                 react.createElement("img", { src: "../assets/images/soc3.png" })
               )
@@ -862,7 +862,7 @@ var deferred,
               react.createElement(
                 "span",
                 { className: "contractValue" },
-                "0xcomingsoon"
+                "0x388E03EB862C4bAF1E06c7fE04420d8a01A3C6F5"
               )
             )
           )
